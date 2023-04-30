@@ -6,7 +6,7 @@ Cientista de Dados que está em busca de novos desafios e conhecimentos que poss
 Acesse meu  <a href="https://www.linkedin.com/in/claudiahamori/">  Linkedin </a> aqui
 
 
-Interesses:
+Atualmente focado em:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50/>
