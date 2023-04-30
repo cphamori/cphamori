@@ -1,4 +1,4 @@
-### Olá, meu nome é Claudia Hamori :)
+### Olá, meu nome é Claudia Picorelli Hamori :)
 
 Cientista de Dados que está em busca de novos desafios e conhecimentos que possam contribuir para ajudar  as empresas a resolverem seus problemas em suas áreas de negócios.
 
