@@ -8,6 +8,7 @@ Acesse meu  <a href="https://www.linkedin.com/in/claudiahamori/">  Linkedin </a>
 
 Atualmente focado em:
 
+IA
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=90/>
 
