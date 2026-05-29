@@ -1,6 +1,6 @@
 ### Olá, meu nome é Claudia Picorelli Hamori :)
 
-Cientista de Dados que está em busca de novos desafios e conhecimentos que possam contribuir para ajudar  as empresas a resolverem seus problemas em suas áreas de negócios.
+Profissional analítica com forte experiência corporativa e formação em Data Analytics e IA. Acredito que posso contribuir ajudando a transformar dados em informações estratégicas para apoiar a tomada de decisão da empresa.
 
 
 Acesse meu  <a href="https://www.linkedin.com/in/claudiahamori/">  Linkedin </a> aqui!
